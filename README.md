@@ -1,7 +1,7 @@
 # Speech2TextPytorchTd
 
 ### outline ###
-try to create audio to speech using pytorch and touchdesiger.  
+try to create speech to text using pytorch and touchdesiger.  
 *just for my own private work repo under processing, so uploaded files are not full data.
 
 ### sample ###
